@@ -1,25 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Angkor&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Playwrite+CO:wght@100..400&display=swap');
+/*------------PARTE FONTS -----------*/
+@import url('https://fonts.googleapis.com/css2?family=Angkor&family=Creepster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Angkor&family=Creepster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CO:wght@100..400&display=swap');
 
 body, html {
     margin: 0;
     padding: 0;
     width: 100%;
     height: 100%;
+/*----------PARTE HEADER-----------*/
 }
-
 .header {
     color: white;
     position: relative;
     width: 100%;
     height: calc(108vh - 50px);
+    color: white;
+    align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     overflow: hidden;
+
 }
 
 .header::before {
@@ -40,7 +43,7 @@ body, html {
 .header h1 {
     font-family: "Angkor", serif;
     font-size: 10vw;
-    margin: 0;
+    margin: 120px 0 0 0;
 }
 
 .header h2 {
@@ -54,7 +57,12 @@ body, html {
     font-family: "Creepster", system-ui;
     font-size: 15vw;
 }
-
+.white-line {
+    width: 100%;
+    height: 43px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 200px;
+}
 @media (max-width: 768px) {
     .header h1 {
         font-size: 2em;
@@ -64,3 +72,5 @@ body, html {
         font-size: 1em;
     }
 }
+/***********PARTE NAVBAR***********/
+/***********PARTE INDEX***********/

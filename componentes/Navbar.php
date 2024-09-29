@@ -1,41 +1,40 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <!-- Logo -->
     <a class="navbar-brand" href="index.php">
-      <img src="path/to/logo.png" alt="Logo" style="height: 30px;"> <!-- Ajusta la ruta del logo -->
+      <img src="path/to/logo.png" alt="Logo" style="height: 30px;"> <!-- LOGO -->
     </a>
     
-    <!-- Toggle button for smaller screens -->
+    <!-- BOTON -->
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     
-    <!-- Links de navegación -->
+    <!-- BARRA DE NAVEGACION-->
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="index.php">Ticket X Press</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Evento.php">Eventos</a>
+          <a class="nav-link" href="./PAG/Evento.php">Eventos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Atencion.php">Atención al Cliente</a>
+          <a class="nav-link" href="/componentes/PAG/Atencion.php">Atención al Cliente</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Pedidos.php">Pedidos</a>
+          <a class="nav-link" href="/componentes/PAG/Pedidos.php">Pedidos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Vender.php">Vender con Ticket X Press</a>
+          <a class="nav-link" href="/componentes/PAG/Vender.php">Vender con Ticket X Press</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Faq.php">FAQ</a>
+          <a class="nav-link" href="/componentes/PAG/Faq.php">FAQ</a>
         </li>
       </ul>
-      <!-- Enlace de Acceder para registro/login -->
+      <!-- LOGGING -->
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link" href="Log.php">Acceder</a>
+          <a class="nav-link" href="/componentes/PAG/Log.php">ACCEDER</a>
         </li>
       </ul>
     </div>

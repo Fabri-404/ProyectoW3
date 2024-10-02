@@ -10,6 +10,7 @@
     <?php include 'componentes/Navbar.php'; ?>
     <?php include 'componentes/Header.php'; ?>
     <?php include 'componentes/Footer.php'; ?>
+    <?php include 'componentes/PAG/Evento.php'; ?>
 
 
     

@@ -11,13 +11,7 @@
         <h2>Tu puerta de entrada a los mejores eventos</h2>
         <div class="white-line"></div>
     </header>
-    <div class='nosotros'>Quienes Somos?</div>
-    <div class='contenido'>
-        <p>
-          Somos una empresa dedicada a la venta de tickets para eventos de todo tipo, desde conciertos, festivales, eventos deportivos, hasta obras de teatro y eventos culturales. 
-          Nuestro objetivo es brindarte la mejor experiencia de compra, para que puedas disfrutar de tus eventos favoritos sin preocupaciones.
-        </p>
-    </div>
+    
     
 </body>
 </html>

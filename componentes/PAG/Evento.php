@@ -1,4 +1,3 @@
-<?php include './componentes/Navbar.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

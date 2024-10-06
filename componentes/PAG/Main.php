@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="EstilosCSS/main.css">
 </head>
 <body>
-    <div class='nosotros'>Quienes SomoSSS?</div>
+    <div class='nosotros'>Quienes Somos?</div>
         <div class='contenido'>
             <p>
             Somos una empresa dedicada a la venta de tickets para eventos de todo tipo, desde conciertos, festivales, eventos deportivos, hasta obras de teatro y eventos culturales. 
